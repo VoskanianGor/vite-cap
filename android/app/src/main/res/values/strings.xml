@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vite-cap</string>
+    <string name="title_activity_main">vite-cap</string>
+    <string name="package_name">com.vite.cap</string>
+    <string name="custom_url_scheme">com.vite.cap</string>
+</resources>
